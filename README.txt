@@ -28,3 +28,5 @@ Continue working on Assignment 2
 And clone repository from github through Visual Studio Code 2019
 Tested the app 
 and commit to github
+1523
+updated README.md file
