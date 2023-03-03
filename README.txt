@@ -19,4 +19,12 @@ update the home page to welcome to TaranvirsBookStore
 Tested the app
 
 1516
-Default Route pattern 
+Default Route pattern
+
+******************
+2023-03-03
+1510
+Continue working on Assignment 2
+And clone repository from github through Visual Studio Code 2019
+Tested the app 
+and commit to github
