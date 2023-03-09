@@ -59,3 +59,12 @@ wwwroot>lib>bootsrap>dist>css>bootstrap.css
 1426
  Change the path of bootstrap.min.css  to bootstrap.css 
  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+
+1514
+Add some changes in _Layout.cshtml
+1.change the nav class navbar light
+to navbar dark and bg-white to bg-primary
+
+
+2.Add addtional properties to  the footer class
+@await RenderSectionAsync("Scripts", required: false)
