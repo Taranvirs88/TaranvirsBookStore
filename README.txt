@@ -50,4 +50,9 @@ And download the pulse theme bootsrap.css file.
 1419
 Rename the old bootsrap.css file to bootsrap_old.css
 
+1421
+put the download pulse theme bootstrap file into 
+wwwroot folder 
+this is the path of bootsrap.css file
+wwwroot>lib>bootsrap>dist>css>bootstrap.css
 
