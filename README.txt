@@ -31,3 +31,14 @@ and commit to github
 1523
 updated README.md file
 Start Working on Assignment 2
+
+2023-03-09
+*************
+1409
+Start Working on Assignment 2
+Clone the repository from github 
+And start working on using visual studio code
+
+1412
+Tested the app it is working good.
+
