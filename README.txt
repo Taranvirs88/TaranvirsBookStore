@@ -56,3 +56,6 @@ wwwroot folder
 this is the path of bootsrap.css file
 wwwroot>lib>bootsrap>dist>css>bootstrap.css
 
+1426
+ Change the path of bootstrap.min.css  to bootstrap.css 
+ <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
