@@ -47,3 +47,7 @@ Going to Bootswatch.com  and finding the bootstrap templates.
 There are many of templates i was puzle but i selected pulse template.
 And download the pulse theme bootsrap.css file.
 
+1419
+Rename the old bootsrap.css file to bootsrap_old.css
+
+
