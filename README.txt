@@ -68,3 +68,7 @@ to navbar dark and bg-white to bg-primary
 
 2.Add addtional properties to  the footer class
 @await RenderSectionAsync("Scripts", required: false)
+
+
+1522
+  Remove the text-dark from _LoginPartial.cshtml file.
