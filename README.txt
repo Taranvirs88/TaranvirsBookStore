@@ -86,3 +86,9 @@ to navbar dark and bg-white to bg-primary
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script src="https://kit.fontawesome.com/e19c476714.js"></script>
+
+
+Started Working on Assignment 2
+****************
+1745
+Added the dropdown navigation bar below the privacy lists the _Layout.cshtml
