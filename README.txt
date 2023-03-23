@@ -92,3 +92,5 @@ Started Working on Assignment 2
 ****************
 1745
 Added the dropdown navigation bar below the privacy lists the _Layout.cshtml
+
+Open the project
