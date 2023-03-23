@@ -13,8 +13,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.27" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TaranvirsBooks.Models\TaranvirsBooks.Models.csproj" />
-  </ItemGroup>
-
 </Project>
