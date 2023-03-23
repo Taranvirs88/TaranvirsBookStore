@@ -93,4 +93,16 @@ Started Working on Assignment 2
 1745
 Added the dropdown navigation bar below the privacy lists the _Layout.cshtml
 
-Open the project
+
+1900
+************************
+Open the project  and clone from github and start working on Project added files
+Added three class library projects in the solution file project
+1.TaranvirsBooks.DataAccess
+2.TaranvirsBooks.DataModels
+3.taranvirsBooks.Utility
+
+1905
+*************
+Moved the data folder from the main project into TaranvirsBooks.DataAccess
+
