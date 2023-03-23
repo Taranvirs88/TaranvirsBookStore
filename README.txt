@@ -106,3 +106,6 @@ Added three class library projects in the solution file project
 *************
 Moved the data folder from the main project into TaranvirsBooks.DataAccess
 
+1915
+***********
+Delete the migration folder from the Data folder
