@@ -149,3 +149,9 @@ Start working on Assignment 2
 Part-2 
 clone repository from github 
 
+1514
+create the Db 
+
+1517
+***********
+Update the appsettings.json file on line 3 
