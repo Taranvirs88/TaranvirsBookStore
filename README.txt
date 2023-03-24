@@ -140,4 +140,12 @@ Move the Home folder into the Areas Views Folder
 update the namespace for in HomeControoler.cs
 
 2005
-Delete Contoller folder from the TaranvirsBookStore 
+Delete Contoller folder from the TaranvirsBookStore
+
+
+2023-03-24
+*********************
+Start working on Assignment 2
+Part-2 
+clone repository from github 
+
