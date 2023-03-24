@@ -118,5 +118,10 @@ Change the namespace Taranvirs.Data to namespace TaranvirsBooks.DataAccess.Data 
 1935
 ********
 
-rename the Model folder as ViewModels
+Rename the Model folder as ViewModels
 make some changes in the Homecontroller.cs and Error viewModel.cs
+
+Add SD.cs file in the TaranvirsBooks.Utility folder
+
+Add public static property in SD.cs file in line 47
+Add Customer Area Folder 
