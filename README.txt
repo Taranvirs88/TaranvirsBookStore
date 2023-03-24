@@ -155,3 +155,9 @@ create the Db
 1517
 ***********
 Update the appsettings.json file on line 3 
+
+1528
+*****************
+Add migration in the package manager for DataAceess project.
+*****************
+add-migration AddDefaultIdentityMigration
