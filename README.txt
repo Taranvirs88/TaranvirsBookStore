@@ -125,3 +125,9 @@ Add SD.cs file in the TaranvirsBooks.Utility folder
 
 Add public static property in SD.cs file in line 47
 Add Customer Area Folder 
+
+
+1945
+*******
+Move the Homecontrollers.cs File in the Area Folder and change the names on the line 11
+ and Update the Startup.cs on the line 64 

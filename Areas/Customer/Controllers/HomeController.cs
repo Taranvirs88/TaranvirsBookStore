@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using TaranvirsBookStore.Models;
 
 namespace TaranvirsBookStore.Controllers
-{
+{   [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

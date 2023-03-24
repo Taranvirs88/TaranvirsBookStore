@@ -60,9 +60,15 @@ namespace TaranvirsBookStore
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");//Default Route pattern 
+
+            endpoints.MapAreaControllerRoute(
+            name: "defaultArea",
+            areaName: "Customer",
+            pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                //endpoints.MapControllerRoute(
+                //name: "default",
+                    //pattern: "{controller=Home}/{action=Index}/{id?}");//Default Route pattern 
                 endpoints.MapRazorPages();
             });
         }
