@@ -135,3 +135,9 @@ Move the Homecontrollers.cs File in the Area Folder and change the names on the 
 1950 
 ****************
 Move the Home folder into the Areas Views Folder 
+
+1952
+update the namespace for in HomeControoler.cs
+
+2005
+Delete Contoller folder from the TaranvirsBookStore 
