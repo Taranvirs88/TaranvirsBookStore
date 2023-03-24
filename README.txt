@@ -131,3 +131,7 @@ Add Customer Area Folder
 *******
 Move the Homecontrollers.cs File in the Area Folder and change the names on the line 11
  and Update the Startup.cs on the line 64 
+
+1950 
+****************
+Move the Home folder into the Areas Views Folder 
