@@ -109,3 +109,14 @@ Moved the data folder from the main project into TaranvirsBooks.DataAccess
 1915
 ***********
 Delete the migration folder from the Data folder
+
+1920
+*************************
+Change the namespace Taranvirs.Data to namespace TaranvirsBooks.DataAccess.Data in ApplicationdbContext.cs
+
+
+1935
+********
+
+rename the Model folder as ViewModels
+make some changes in the Homecontroller.cs and Error viewModel.cs
