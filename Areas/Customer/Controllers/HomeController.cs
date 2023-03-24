@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using TaranvirsBookStore.Models;
 
-namespace TaranvirsBookStore.Controllers
+namespace TaranvirsBookStore.Area.Customer.Controllers
 {   [Area("Customer")]
     public class HomeController : Controller
     {
